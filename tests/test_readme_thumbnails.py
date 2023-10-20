@@ -1,6 +1,6 @@
 import unittest
 import os
-from readme_thumbnails import WALLPAPERS_DIR, THUMBNAILS_DIR, README_FILE
+from ..readme_thumbnails import WALLPAPERS_DIR, THUMBNAILS_DIR, README_FILE
 
 class TestThumbnailGeneration(unittest.TestCase):
 
