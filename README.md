@@ -41,4 +41,4 @@ Here are some of the links to places that I have gotten these wallpapers from.
 ## Code Resources 
 
 - This code was written with the assistance of GPT-4. 
-- I give thanks to @wdsrocha and his [wallpaper repository](https://github.com/wdsrocha/wallpapers) for inspiration in making this. 
+- I give thanks to [@wdsrocha](https://github.com/wdsrocha) and his [wallpaper repository](https://github.com/wdsrocha/wallpapers) for inspiration in making this. 
