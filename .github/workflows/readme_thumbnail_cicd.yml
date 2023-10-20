@@ -26,5 +26,7 @@ jobs:
     - name: Run script
       run: python readme_thumbnails.py
     - name: Test with unittest
-      run: python tests/test_readme_thumbnails.py
+      run: |
+        export PYTHONPATH=$PYTHONPATH:$(pwd)
+        python tests/test_readme_thumbnails.py
 
