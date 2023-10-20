@@ -31,7 +31,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install pillow
     - name: Run script
-      run: python generate_thumbnails.py
+      run: python readme_thumbnails.py
     - name: Test with unittest
       run: |
         export PYTHONPATH=$PYTHONPATH:$(pwd)
