@@ -1,4 +1,4 @@
-name: Python application test
+name: README Thumbnail GitHub CI/CD test
 
 on:
   push:
@@ -19,12 +19,19 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
+    - name: Cache pip dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install pillow
     - name: Run script
-      run: python readme_thumbnails.py
+      run: python generate_thumbnails.py
     - name: Test with unittest
       run: |
         export PYTHONPATH=$PYTHONPATH:$(pwd)
