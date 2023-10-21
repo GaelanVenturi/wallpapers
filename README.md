@@ -22,7 +22,7 @@ This is a repository containing wallpapers that I have gathered over the years. 
 
 ## motorcycles
 
-[![wp6959117.jpg](thumbnails/motorcycles/wp6959117.jpg)](wallpapers/motorcycles/wp6959117.jpg) 
+[![wp10762147-harley-davidson-dyna-wallpapers.jpg](thumbnails/motorcycles/wp10762147-harley-davidson-dyna-wallpapers.jpg)](wallpapers/motorcycles/wp10762147-harley-davidson-dyna-wallpapers.jpg) [![wp10762149.jpg](thumbnails/motorcycles/wp10762149.jpg)](wallpapers/motorcycles/wp10762149.jpg) [![wp6959117.jpg](thumbnails/motorcycles/wp6959117.jpg)](wallpapers/motorcycles/wp6959117.jpg) 
 
 ## nature
 
