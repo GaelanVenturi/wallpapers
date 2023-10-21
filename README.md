@@ -2,6 +2,8 @@
 
 This is a repository containing wallpapers that I have gathered over the years. I have a python script that goes through the folder [wallpapers](/wallpapers) and makes thumbnails for each of the wallpapers in each of the folders and organizes them inside of the README. 
 
+---
+
 <!-- THUMBNAILS_START -->
 
 ## abstract
@@ -37,6 +39,33 @@ This is a repository containing wallpapers that I have gathered over the years. 
 [![2e3e68fb-b6da-4bb6-8ad3-9a2d335340af.png](thumbnails/space/2e3e68fb-b6da-4bb6-8ad3-9a2d335340af.png)](wallpapers/space/2e3e68fb-b6da-4bb6-8ad3-9a2d335340af.png) [![astronaut-jellyfish-space-digital-art-uhdpaper.com-4K-107.jpg](thumbnails/space/astronaut-jellyfish-space-digital-art-uhdpaper.com-4K-107.jpg)](wallpapers/space/astronaut-jellyfish-space-digital-art-uhdpaper.com-4K-107.jpg) 
 
 <!-- THUMBNAILS_END -->
+
+---
+
+## File Tree 
+
+<!-- BEGIN FILE TREE -->
+```text
+.
+├── LICENSE
+├── Pipfile
+├── Pipfile.lock
+├── README.md
+├── file_tree.py
+├── readme_thumbnails.py
+├── .github
+├── tests
+├── thumbnails
+├── wallpapers
+.github
+│   ├── workflows
+```
+<!-- END FILE TREE -->
+
+## Python Scripts 
+
+- [readme_thumbnails.py](readme_thumbnails.py)
+- [file_tree.py]
 
 ## Wallpaper Sources 
 
