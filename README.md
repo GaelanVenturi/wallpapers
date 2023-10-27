@@ -14,6 +14,10 @@ This is a repository containing wallpapers that I have gathered over the years. 
 
 [![ilya_kuvshinov_06.jpeg](thumbnails/anime/ilya_kuvshinov_06.jpeg)](wallpapers/anime/ilya_kuvshinov_06.jpeg) 
 
+## cars
+
+[![kevin-bhagat-3cLpiv8h5so-unsplash.jpg](thumbnails/cars/kevin-bhagat-3cLpiv8h5so-unsplash.jpg)](wallpapers/cars/kevin-bhagat-3cLpiv8h5so-unsplash.jpg) 
+
 ## city
 
 [![evening-sky.png](thumbnails/city/evening-sky.png)](wallpapers/city/evening-sky.png) [![ign_dudeOnBuilding3.png](thumbnails/city/ign_dudeOnBuilding3.png)](wallpapers/city/ign_dudeOnBuilding3.png) 
@@ -24,7 +28,7 @@ This is a repository containing wallpapers that I have gathered over the years. 
 
 ## mobile
 
-[![aleks-marinkovic-rvziaOyz9_Y-unsplash.jpg](thumbnails/mobile/aleks-marinkovic-rvziaOyz9_Y-unsplash.jpg)](wallpapers/mobile/aleks-marinkovic-rvziaOyz9_Y-unsplash.jpg) 
+[![121cff020cb2f670e7c56190b3b57f7b.jpg](thumbnails/mobile/121cff020cb2f670e7c56190b3b57f7b.jpg)](wallpapers/mobile/121cff020cb2f670e7c56190b3b57f7b.jpg) [![aleks-marinkovic-rvziaOyz9_Y-unsplash.jpg](thumbnails/mobile/aleks-marinkovic-rvziaOyz9_Y-unsplash.jpg)](wallpapers/mobile/aleks-marinkovic-rvziaOyz9_Y-unsplash.jpg) 
 
 ## motorcycles
 
