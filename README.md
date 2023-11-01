@@ -1,6 +1,6 @@
 # My wallpapers
 
-This is a repository containing wallpapers that I have gathered over the years. I have a python script that goes through the folder [wallpapers](/wallpapers) and makes thumbnails for each of the wallpapers in each of the folders and organizes them inside of the README. 
+This is a repository containing wallpapers that I have gathered over the years. I have a python script that goes through the folder [wallpapers](/wallpapers) and makes thumbnails for each of the wallpapers in each of the folders and organizes them inside of the README.
 
 ---
 
@@ -21,6 +21,10 @@ This is a repository containing wallpapers that I have gathered over the years. 
 ## city
 
 [![evening-sky.png](thumbnails/city/evening-sky.png)](wallpapers/city/evening-sky.png) [![ign_dudeOnBuilding3.png](thumbnails/city/ign_dudeOnBuilding3.png)](wallpapers/city/ign_dudeOnBuilding3.png) 
+
+## flag
+
+[![samuel-branch-ZPVisr0s_hQ-unsplash.jpg](thumbnails/flag/samuel-branch-ZPVisr0s_hQ-unsplash.jpg)](wallpapers/flag/samuel-branch-ZPVisr0s_hQ-unsplash.jpg) 
 
 ## halloween
 
@@ -46,7 +50,7 @@ This is a repository containing wallpapers that I have gathered over the years. 
 
 ---
 
-## File Tree 
+## File Tree
 
 <!-- BEGIN FILE TREE -->
 ```text
@@ -66,20 +70,20 @@ This is a repository containing wallpapers that I have gathered over the years. 
 ```
 <!-- END FILE TREE -->
 
-## Python Scripts 
+## Python Scripts
 
 - [readme_thumbnails.py](readme_thumbnails.py)
 - [file_tree.py]
 
-## Wallpaper Sources 
+## Wallpaper Sources
 
-Here are some of the links to places that I have gotten these wallpapers from. 
+Here are some of the links to places that I have gotten these wallpapers from.
 
 - [WallpaperCave](https://wallpapercave.com/)
-- [Unsplash](https://unsplash.com) 
+- [Unsplash](https://unsplash.com)
 - [Aleks Marinkovic](https://unsplash.com/@aleks_marinkovic)
 
-## Code Resources 
+## Code Resources
 
-- This code was written with the assistance of GPT-4. 
-- I give thanks to [@wdsrocha](https://github.com/wdsrocha) and his [wallpaper repository](https://github.com/wdsrocha/wallpapers) for inspiration in making this. 
+- This code was written with the assistance of GPT-4.
+- I give thanks to [@wdsrocha](https://github.com/wdsrocha) and his [wallpaper repository](https://github.com/wdsrocha/wallpapers) for inspiration in making this.
