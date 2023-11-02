@@ -91,6 +91,7 @@ Here are some of the links to places that I have gotten these wallpapers from.
 - [Unsplash](https://unsplash.com)
 - [Aleks Marinkovic](https://unsplash.com/@aleks_marinkovic)
 - [DistroTube Wallpaper](https://gitlab.com/dwt1/wallpapers)
+- [Gruvbox Wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
 
 ## Code Resources
 
