@@ -61,7 +61,3 @@ This is a repository containing wallpapers that I have gathered over the years. 
 <!-- THUMBNAILS_END -->
 
 ---
-
-## File Tree
-
-<!-- BEGIN FILE TREE -->
