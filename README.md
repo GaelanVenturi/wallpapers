@@ -22,6 +22,10 @@ This is a repository containing wallpapers that I have gathered over the years. 
 
 [![kevin-bhagat-3cLpiv8h5so-unsplash.jpg](thumbnails\cars\kevin-bhagat-3cLpiv8h5so-unsplash.jpg)](wallpapers\cars\kevin-bhagat-3cLpiv8h5so-unsplash.jpg) 
 
+## catppuccin
+
+[![BlossomsCatppuccin.png](thumbnails\catppuccin\BlossomsCatppuccin.png)](wallpapers\catppuccin\BlossomsCatppuccin.png) 
+
 ## city
 
 [![evening-sky.png](thumbnails\city\evening-sky.png)](wallpapers\city\evening-sky.png) [![ign_dudeOnBuilding3.png](thumbnails\city\ign_dudeOnBuilding3.png)](wallpapers\city\ign_dudeOnBuilding3.png) 
