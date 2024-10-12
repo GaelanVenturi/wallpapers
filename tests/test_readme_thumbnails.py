@@ -12,9 +12,7 @@ class TestThumbnailGeneration(unittest.TestCase):
     def test_readme_exists(self):
         """Test if README file exists after running the script."""
         self.assertTrue(os.path.exists(README_FILE))
-        
-    # Add more tests as needed...
+
 
 if __name__ == "__main__":
     unittest.main()
-
